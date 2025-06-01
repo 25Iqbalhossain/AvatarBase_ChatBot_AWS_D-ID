@@ -1,0 +1,6 @@
+.\new_env\Scripts\activate
+
+
+$env:SSL_CERT_FILE=""
+
+ streamlit run app.py
